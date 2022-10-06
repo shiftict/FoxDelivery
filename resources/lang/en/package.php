@@ -1,0 +1,21 @@
+<?php
+return [
+    'package' => 'Package',
+    'add_package' => 'Add New Package',
+    'edit_package' => 'Edit Package',
+    'management_package' => 'Management Package',
+    'rpackage' => 'Renewal Package',
+    'expired' => 'Expired Package',
+    'price' => 'Prices',
+    'bothPackage' => 'Both Package',
+    'sentPackageBlance' => 'Adding The Number Of Requests To The New Package',
+    'number_of_orders' => 'Number Of Orders',
+    'package_for_order' => 'Add Package For Order',
+    'package_for_hours' => 'Add Package For Hours',
+    'package_for_order_delete' => 'Delete Package For Order',
+    'package_for_hours_delete' => 'Delete Package For Hours',
+    'expire' => '(Start - Expire) Date',
+    'number' => 'Please Enter Valid Number',
+    'require' => 'This Field Its Requires',
+    'min' => 'Min Value 1',
+];

@@ -1,0 +1,21 @@
+<?php
+return [
+    'package' => 'الباقات',
+    'add_package' => 'إضافة باقة جديدة',
+    'edit_package' => 'تعديل الباقة',
+    'management_package' => 'إدارة الباقات',
+    'price' => 'سعر الباقة',
+    'bothPackage' => 'مشترك باقتين',
+    'sentPackageBlance' => 'اضافة عدد الطلبات للباقة الجديدة',
+    'rpackage' => 'الباقات',
+    'number_of_orders' => 'عدد الطلبات',
+    'expire' => 'تاريخ (البداية - والإنتهاء)',
+    'number' => 'الرجاء ادخال رقم وليس سلسة حرفية',
+    'require' => 'هذا الحقل مطلوب',
+    'min' => 'اقل قيمة للحقل 1',
+    'expired' => 'الباقة انتهت',
+    'package_for_order' => 'اضافة باقة عددية',
+    'package_for_order_delete' => 'حذف باقة عددية',
+    'package_for_hours' => 'اضافة باقة بالساعة',
+    'package_for_hours_delete' => 'حذف باقة بالساعة',
+];

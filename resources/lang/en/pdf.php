@@ -1,0 +1,22 @@
+<?php
+return [
+    'name' => 'Name',
+    'phone' => 'Phone',
+    'from_address' => 'Store address',
+    'to_address' => 'Order address',
+    'description' => 'Details',
+    'orderId' => 'Number of order',
+    'time' => 'Time',
+    'date' => 'Date',
+    'dateOfOrder' => 'Date of order',
+    'vendorId' => 'Number of vendor',
+    'driverId' => 'Number of driver',
+    'packages' => 'Packages',
+    'numberOfOrders' => 'Number of orders',
+    'pricing' => 'Pricing',
+    'date_from' => 'Date from',
+    'date_to' => 'Date to',
+    'status' => 'Status',
+    'active' => 'Active',
+    'inActive' => 'in-Active',
+];

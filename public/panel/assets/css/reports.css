@@ -1,0 +1,54 @@
+
+
+body {
+    font-family: 'droidregular', Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace !important;
+}
+
+@page {
+    header: page-header;
+    footer: page-footer;
+    margin-top: 150px; /* <any of the usual CSS values for margins> */
+    margin-bottom: 150px; /* <any of the usual CSS values for margins> */
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 97%;
+    /*border: 1px solid #5E6278;*/
+    margin-right: 3%;
+}
+th, td {
+    font-size: 12px;
+    text-align: center;
+    padding: 5px;
+    /*border: 1px solid #5E6278;*/
+}
+table.striped tr:nth-child(even) {
+    background-color: #e6e6e6;
+}
+thead tr.header {
+    background-color: #ababab;
+}
+thead tr {
+    /*background-color: #c8c7c7;*/
+}
+center {
+    margin-right: 50%;
+    margin-left: 50%;
+}
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+span .title_reports {
+    margin-right: 50%;
+    margin-left: 50%;
+}
+
+td {
+    border: none;
+}
